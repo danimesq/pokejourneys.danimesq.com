@@ -1,12 +1,12 @@
-commit QmSdeqooURYHgCzbkNALifcnizUFZpTcPrqVJvojCECYEH
+commit QmZ8BroZCvxVetKt4xckKber5bFewmwkoGpmspMCxRA7QP
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: b004a8480c875ae208a7232de1f9fb05c27214adc17bc3035d876800c51fa24858df5a300917ddc5e1cad3f24d17177aa29eb1daf44b4563f6d77a9219e5069800
+Signature: 834d2a819811983799847a1a532ab7d677cd03d413a58300ffea737add8a96b050ca69ce0edd22a43f682e4e0793d10dcbbef127c72329b9b07dcfce33932c1601
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmVKuBNn4o7VMfjueYSN9aYaLjLxoQioAyokpJuoc3Fjno
-Commit CID if containing only file hashes: QmcTmA1rPJS6Hja3NuBh8EeZGJitESPnmfmtMkmD1vngh6
+Commit CID if including git's SHA1: QmbQNn1JUBH5Y4h5ZCvPDCucpHTnXvegUp5N9CXcxiSHxm
+Commit CID if containing only file hashes: QmYPte5XWBRw9n7Bj44GcyBoQmrJLC7oufgPV31wMuTiDW
 
 ------------------------------
 
@@ -17,7 +17,55 @@ Remote URL: https://github.com/danimesq/pokejourneys.danimesq.com.git
 
 ------------------------------
 
+chown -h 1000:1000 '.gitignore'
+chmod 0664 '.gitignore'
+/usr/bin/touch -hcmd "2024-07-11 14:22:02.4274108000 -0300" '.gitignore'
+/usr/bin/touch -hcad "2024-07-11 14:23:41.4392401000 -0300" '.gitignore'
 chown -h 1000:1000 'index.html'
 chmod 0664 'index.html'
-/usr/bin/touch -hcmd "2024-06-23 16:10:43.9935998000 -0300" 'index.html'
-/usr/bin/touch -hcad "2024-06-23 16:10:45.5036200000 -0300" 'index.html'
+/usr/bin/touch -hcmd "2024-07-11 14:26:20.9657910000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-07-11 14:26:22.6986433000 -0300" 'index.html'
+chown -h 1000:1000 'logotype.png'
+chmod 0755 'logotype.png'
+/usr/bin/touch -hcmd "2024-07-11 02:02:43.3551191000 -0300" 'logotype.png'
+/usr/bin/touch -hcad "2024-07-11 14:23:30.5001502000 -0300" 'logotype.png'
+chown -h 1000:1000 'logotype.svg'
+chmod 0755 'logotype.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:02:50.4563929000 -0300" 'logotype.svg'
+/usr/bin/touch -hcad "2024-07-11 14:23:30.2171738000 -0300" 'logotype.svg'
+chown -h 1000:1000 'new/.folderstamp1'
+chmod 0664 'new/.folderstamp1'
+/usr/bin/touch -hcmd "2024-07-11 13:11:52.1454853000 -0300" 'new/.folderstamp1'
+/usr/bin/touch -hcad "2024-07-11 13:22:19.4562527000 -0300" 'new/.folderstamp1'
+chown -h 1000:1000 'new/.folderstamp2'
+chmod 0664 'new/.folderstamp2'
+/usr/bin/touch -hcmd "2024-07-11 13:22:20.2081873000 -0300" 'new/.folderstamp2'
+/usr/bin/touch -hcad "2024-07-11 14:23:42.5281494000 -0300" 'new/.folderstamp2'
+chown -h 1000:1000 'new/done/signature.svg'
+chmod 0755 'new/done/signature.svg'
+/usr/bin/touch -hcmd "2024-07-10 19:53:20.5674332000 -0300" 'new/done/signature.svg'
+/usr/bin/touch -hcad "2024-07-11 13:22:19.5162475000 -0300" 'new/done/signature.svg'
+chown -h 1000:1000 'new/done/vectorize.svg'
+chmod 0755 'new/done/vectorize.svg'
+/usr/bin/touch -hcmd "2024-07-10 19:52:06.6486090000 -0300" 'new/done/vectorize.svg'
+/usr/bin/touch -hcad "2024-07-11 13:22:19.6322374000 -0300" 'new/done/vectorize.svg'
+chown -h 1000:1000 'new/done/vectorize2.svg'
+chmod 0755 'new/done/vectorize2.svg'
+/usr/bin/touch -hcmd "2024-07-11 01:58:44.2985756000 -0300" 'new/done/vectorize2.svg'
+/usr/bin/touch -hcad "2024-07-11 13:22:19.7522270000 -0300" 'new/done/vectorize2.svg'
+chown -h 1000:1000 'new/logotypeplainblack.png'
+chmod 0755 'new/logotypeplainblack.png'
+/usr/bin/touch -hcmd "2024-07-11 02:03:06.7359817000 -0300" 'new/logotypeplainblack.png'
+/usr/bin/touch -hcad "2024-07-11 13:12:01.3198436000 -0300" 'new/logotypeplainblack.png'
+chown -h 1000:1000 'new/logotypeplainblack.svg'
+chmod 0755 'new/logotypeplainblack.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:03:12.4327986000 -0300" 'new/logotypeplainblack.svg'
+/usr/bin/touch -hcad "2024-07-11 13:12:01.5378283000 -0300" 'new/logotypeplainblack.svg'
+chown -h 1000:1000 'new/logotypeplainwhite.png'
+chmod 0755 'new/logotypeplainwhite.png'
+/usr/bin/touch -hcmd "2024-07-11 02:03:27.5766279000 -0300" 'new/logotypeplainwhite.png'
+/usr/bin/touch -hcad "2024-07-11 13:12:01.5518274000 -0300" 'new/logotypeplainwhite.png'
+chown -h 1000:1000 'new/logotypeplainwhite.svg'
+chmod 0755 'new/logotypeplainwhite.svg'
+/usr/bin/touch -hcmd "2024-07-11 02:03:33.7679085000 -0300" 'new/logotypeplainwhite.svg'
+/usr/bin/touch -hcad "2024-07-11 13:12:01.5508274000 -0300" 'new/logotypeplainwhite.svg'
